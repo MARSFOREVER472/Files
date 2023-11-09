@@ -13,6 +13,12 @@ Profesor::Profesor(string name, int age, string grade)
 Profesor::~Profesor()
 {
 	// ADVERTENCIA: ESTE ES EL DESTRUCTOR DE ESTA CLASE O REALMENTE ACTÚA COMO ÉSTE UN RECOLECTOR DE BASURA YA QUE SE ELIMINA TODOS LOS DATOS QUE SE RECIBIERON POR PARÁMETROS.
+
+	// AHORA VAMOS A ELIMINAR UN ALUMNO Y AL MOMENTO DE DESPLEGAR EL MAIN ARROJARÁ UN VALOR NULO YA QUE SE EJECUTÓ ESTÁ FUNCIÓN.
+
+	// delete this->student_anonymousSociety; // SE OCUPA LA PALABRA RESERVADA EN LA CONSOLA QUE YA ESTÁ ELIMINADA.
+
+	this->student_anonymousSociety->~Estudiante(); // HACE UN LLAMADO AL MÉTODO DE ESTA CLASE. 
 }
 
 void Profesor::set_student_anonymousSociety(Estudiante* student_anonymousSociety)
