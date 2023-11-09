@@ -16,7 +16,9 @@ int main()
 
     // VAMOS A LLAMAR AL DESTRUCTOR EN ESTE CASO.
 
-    delete teacher;
+    // delete teacher;
+
+    teacher->~Profesor(); // SE DESTRUYE AL HACER UN LLAMADO AL MÉTODO DE ESTA CLASE.
     cout << student->get_name();
 }
 
