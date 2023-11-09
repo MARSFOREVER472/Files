@@ -17,5 +17,6 @@ int main()
     // VAMOS A LLAMAR AL DESTRUCTOR EN ESTE CASO.
 
     delete teacher;
+    cout << student->get_name();
 }
 
