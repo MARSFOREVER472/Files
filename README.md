@@ -1,8 +1,8 @@
 # Files
 
-Para comenzar
+Para comenzar:
 
-### DESTRUCTORES EN C++
+## DESTRUCTORES EN C++
 
 ¿Qué son los destructores en C++?
 
@@ -12,7 +12,7 @@ Para comenzar
 - Si no define un destructor, el compilador proporciona uno predeterminado; para muchas clases, esto es suficiente.
 - Solo tiene que definir un destructor personalizado cuando la clase almacena los identificadores de los recursos del sistema que deben liberarse, o los punteros que poseen la memoria a la que apuntan.
 
-### COMPLEJIDAD ALGORÍTMICA
+## COMPLEJIDAD ALGORÍTMICA
 
 A simple vista parece algo muy simple, pero a medida que un programa crece, se requiere una medición más exacta y apropiada, para esto se realizan ciertas operaciones matemáticas que establecen la eficiencia teórica del programa, al estudio de estos casos se denomina Complejidad Algorítmica.
 
