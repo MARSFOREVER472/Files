@@ -34,6 +34,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Empresas.txt" />
+    <Text Include="Bancos.txt" />
   </ItemGroup>
 </Project>

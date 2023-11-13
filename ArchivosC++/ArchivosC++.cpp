@@ -11,7 +11,7 @@ void readArchives()
 {
     // TRABAJAREMOS EN UNA PARTE MÁS FUNDAMENTAL PARA REFERENCIAR ARCHIVOS MEDIANTE LECTURA Y ESCRITURA DE ÉSTOS.
 
-    ifstream file("Empresas.txt");
+    ifstream file("Bancos.txt");
     string line("");
 
     while (getline(file, line)) // CREAREMOS UN ARCHIVO POR LÍNEAS.
