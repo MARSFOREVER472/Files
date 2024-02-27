@@ -90,7 +90,7 @@ int main()
 } 
 ```
 
-En el programa se ha creado un objeto de la clase ofstream llamado archivo, posteriormente se utiliza la función miembro open para abrir el arcivo especificado en la cadena de texto que se encuentra dentro del paréntesis de la función. Podemos invocar a la función constructora de clase de tal manera que el archivo también se puede abrir utilizando la siguiente instrucción:
+_En el programa se ha creado un objeto de la clase ofstream llamado archivo, posteriormente se utiliza la función miembro open para abrir el arcivo especificado en la cadena de texto que se encuentra dentro del paréntesis de la función. Podemos invocar a la función constructora de clase de tal manera que el archivo también se puede abrir utilizando la siguiente instrucción:_
 
 ofstream archivo("datos.txt");  // constructora de ofstream 
 
