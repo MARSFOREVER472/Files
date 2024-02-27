@@ -30,6 +30,7 @@ _En la siguiente gráfica se muestra cómo se calcula un algoritmo mediante secu
 
 En estos casos, se mostrarán algunos ejemplos de cómo se realizaron mediante líneas de código para realizar paso a paso de cómo se calcula un algoritmo mediante secuencias logarítmicas.
 
+```
 procedimiento DeLaBurbuja (a⁰, a¹, a², . . . , a(n-1))
 
   para i <- 1 hasta n hacer
@@ -51,7 +52,7 @@ procedimiento DeLaBurbuja (a⁰, a¹, a², . . . , a(n-1))
  fin para
  
 fin procedimiento
-
+```
 ## Entrada o lectura de datos en C++
 
 ### Entrada/Salida de archivos
