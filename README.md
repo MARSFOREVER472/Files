@@ -21,7 +21,7 @@ _Para comenzar:_
 _¿Cómo se calcula la complejidad de un algoritmo?_
 
 - _Uno de las técnicas más comunes es contar el número de operaciones básicas (como sumas o multiplicaciones) que realiza el algoritmo._
-- Esto se conoce como la complejidad temporal del algoritmo.
+- _Esto se conoce como la complejidad temporal del algoritmo._
 - Otra forma de medir la complejidad es contar la cantidad de memoria (en bytes o bits) que requiere el algoritmo.
 
 En la siguiente gráfica se muestra cómo se calcula un algoritmo mediante secuencias numéricas logarítmicas.
