@@ -28,7 +28,7 @@ _En la siguiente gráfica se muestra cómo se calcula un algoritmo mediante secu
 
 ![image](https://github.com/MARSFOREVER472/Files/assets/69094327/8fb0e9ab-ad28-4bc9-8959-4200c4b098b6)
 
-En estos casos, se mostrarán algunos ejemplos de cómo se realizaron mediante líneas de código para realizar paso a paso de cómo se calcula un algoritmo mediante secuencias logarítmicas.
+_En estos casos, se mostrarán algunos ejemplos de cómo se realizaron mediante líneas de código para realizar paso a paso de cómo se calcula un algoritmo mediante secuencias logarítmicas._
 
 ```
 procedimiento DeLaBurbuja (a⁰, a¹, a², . . . , a(n-1))
