@@ -57,7 +57,7 @@ fin procedimiento
 
 ### Entrada/Salida de archivos
 
-Trataremos los principales aspectos de las operaciones de E/S en archivos.
+_Trataremos los principales aspectos de las operaciones de E/S en archivos._
 
 ### Operaciones de escritura en archivos
 
