@@ -16,7 +16,7 @@ _Antes de comenzar:_
 
 _A simple vista parece algo muy simple, pero a medida que un programa crece, se requiere una medición más exacta y apropiada, para esto se realizan ciertas operaciones matemáticas que establecen la eficiencia teórica del programa, al estudio de estos casos se denomina **Complejidad Algorítmica**._
 
-Para empezar:
+_Para empezar:_
 
 ¿Cómo se calcula la complejidad de un algoritmo?
 
