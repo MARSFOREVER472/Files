@@ -4,7 +4,7 @@ _Antes de comenzar:_
 
 ## DESTRUCTORES EN C++
 
-¿Qué son los destructores en C++?
+### ¿Qué son los destructores en C++?
 
 - Un destructor es una función miembro que se invoca automáticamente cuando el objeto sale del ámbito o se destruye explícitamente mediante una llamada a delete.
 - Un destructor tiene el mismo nombre que la clase precedido por una tilde (~).
