@@ -99,7 +99,7 @@ ofstream archivo("datos.txt");  // constructora de ofstream
 
 _Naturalmente, al utilizar la función constructora ya no es necesario utilizar la función miembro open, ésta forma de abrir un archivo es preferida porque el código es más compacto y fácil de leer. De la misma forma que se utilizan manipuladores de salida para modificar la presentación en pantalla de los datos del programa, igual es posible utilizar éstos manipuladores al escribir datos en un archivo como lo demuestra el programa archiv02.cpp, observe que se utiliza un constructor para crear y abrir el archivo llamado Datos.txt:_
 
-
+```
 //***********************************************
 //  archiv02.cpp
 //  Demuestra el uso de manipuladores
@@ -143,7 +143,7 @@ int main()
 
     return 0;
 } 
-
+```
 
 
 ### Modos de apertura de archivo
