@@ -92,8 +92,10 @@ int main()
 
 _En el programa se ha creado un objeto de la clase ofstream llamado archivo, posteriormente se utiliza la función miembro open para abrir el arcivo especificado en la cadena de texto que se encuentra dentro del paréntesis de la función. Podemos invocar a la función constructora de clase de tal manera que el archivo también se puede abrir utilizando la siguiente instrucción:_
 
-ofstream archivo("datos.txt");  // constructora de ofstream 
+```
+ofstream archivo("datos.txt");  // constructora de ofstream
 
+```
 
 Naturalmente, al utilizar la función constructora ya no es necesario utilizar la función miembro open, ésta forma de abrir un archivo es preferida porque el código es más compacto y fácil de leer. De la misma forma que se utilizan manipuladores de salida para modificar la presentación en pantalla de los datos del programa, igual es posible utilizar éstos manipuladores al escribir datos en un archivo como lo demuestra el programa archiv02.cpp, observe que se utiliza un constructor para crear y abrir el archivo llamado Datos.txt:
 
