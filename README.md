@@ -18,7 +18,7 @@ _A simple vista parece algo muy simple, pero a medida que un programa crece, se 
 
 _Para comenzar:_
 
-¿Cómo se calcula la complejidad de un algoritmo?
+_¿Cómo se calcula la complejidad de un algoritmo?_
 
 - Uno de los más comunes es contar el número de operaciones básicas (como sumas o multiplicaciones) que realiza el algoritmo. 
 - Esto se conoce como la complejidad temporal del algoritmo.
