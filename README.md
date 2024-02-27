@@ -1,6 +1,6 @@
 # Files
 
-Para comenzar:
+Antes de comenzar:
 
 ## DESTRUCTORES EN C++
 
