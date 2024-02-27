@@ -1,6 +1,6 @@
 # Files
 
-Antes de comenzar:
+_Antes de comenzar:_
 
 ## DESTRUCTORES EN C++
 
