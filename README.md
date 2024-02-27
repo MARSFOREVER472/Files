@@ -8,7 +8,7 @@ _Antes de comenzar:_
 
 - _Un destructor es una función miembro que se invoca automáticamente cuando el objeto sale del ámbito o se destruye explícitamente mediante una llamada a "delete"._
 - _Un destructor tiene el mismo nombre que la clase precedido por una tilde (~)._
-- Por ejemplo, el destructor de la clase String se declara como: ~String().
+- _Por ejemplo, el destructor de la clase String se declara como: ~String()._
 - Si no define un destructor, el compilador proporciona uno predeterminado; para muchas clases, esto es suficiente.
 - Solo tiene que definir un destructor personalizado cuando la clase almacena los identificadores de los recursos del sistema que deben liberarse, o los punteros que poseen la memoria a la que apuntan.
 
