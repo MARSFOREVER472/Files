@@ -10,7 +10,7 @@ _Antes de comenzar:_
 - _Un destructor tiene el mismo nombre que la clase precedido por una tilde (~)._
 - _Por ejemplo, el destructor de la clase String se declara como: ~String()._
 - _Si no define un destructor, el compilador proporciona uno predeterminado; para muchas clases, esto es suficiente._
-- Solo tiene que definir un destructor personalizado cuando la clase almacena los identificadores de los recursos del sistema que deben liberarse, o los punteros que poseen la memoria a la que apuntan.
+- _Solo tiene que definir un destructor personalizado cuando la clase almacena los identificadores de los recursos del sistema que deben liberarse, o los punteros que poseen la memoria a la que apuntan._
 
 ## COMPLEJIDAD ALGORÍTMICA
 
