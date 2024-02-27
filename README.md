@@ -63,6 +63,8 @@ Trataremos los principales aspectos de las operaciones de E/S en archivos.
 El archivo de cabecera fstream.h define las clases ifstream, ostream y fstream para operaciones de lectura, escritura y lectura/escritura en archivos respectivamente. Para trabajar con archivos debemos crear objetos de éstas clases de acuerdo a las operaciones que deseamos efectuar. Empezamos con las operaciones de escritura, para lo cual básicamente declaramos un objeto de la clase ofstream, después utilizamos la función miembro open para abrir el archivo, escribimos en el archivo los datos que sean necesarios utilizando el operador de inserción y por último cerramos el archivo por medio de la función miembro close, éste proceso está ilustrado en nuestro primer programa, archiv01.cpp.
 
 
+
+```
 //***********************************************
 //  archiv01.cpp
 //  Demuestra la escritura básica en archivo
@@ -84,7 +86,7 @@ int main()
     archivo.close();
     return 0;
 } 
-
+```
 
 En el programa se ha creado un objeto de la clase ofstream llamado archivo, posteriormente se utiliza la función miembro open para abrir el arcivo especificado en la cadena de texto que se encuentra dentro del paréntesis de la función. Podemos invocar a la función constructora de clase de tal manera que el archivo también se puede abrir utilizando la siguiente instrucción:
 
