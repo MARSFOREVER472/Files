@@ -148,7 +148,7 @@ int main()
 
 ### Modos de apertura de archivo
 
-Al especificar la apertura de un archivo como se ha mostrado en los programas anteriores, el programa sobreescribe cualquier archivo existente llamado Datos.txt en el directorio de trabajo del programa. Dependiendo del propósito del programa es posible que sea necesario agregar datos a los ya existentes en el archivo, o quizá sea necesario que las operaciones del programa no se lleven a cabo en caso de que el archivo especificado exista en el disco, para éstos casos podemos especificar el modo de apertura del archivo incluyendo un parámetro adicional en el constructor, cualquiera de los siguientes:
+_Al especificar la apertura de un archivo como se ha mostrado en los programas anteriores, el programa sobreescribe cualquier archivo existente llamado Datos.txt en el directorio de trabajo del programa. Dependiendo del propósito del programa es posible que sea necesario agregar datos a los ya existentes en el archivo, o quizá sea necesario que las operaciones del programa no se lleven a cabo en caso de que el archivo especificado exista en el disco, para éstos casos podemos especificar el modo de apertura del archivo incluyendo un parámetro adicional en el constructor, cualquiera de los siguientes:_
 
 - ios::app Operaciones de añadidura.
 
